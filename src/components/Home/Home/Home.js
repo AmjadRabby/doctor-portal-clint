@@ -1,10 +1,11 @@
 import React from 'react';
+import './Home.css'
 import Blogs from '../Blogs/Blogs';
 import Contact from '../Contact/Contact';
 import Doctor from '../Doctor/Doctor';
 import Doctors from '../Doctors/Doctors';
 import FeaturedService from '../FeaturedService/FeaturedService';
-import Footer from '../Footer/Footer';
+import Footer from '../../Shared/Footer/Footer';
 import Header from '../Header/Header';
 import MakeAppointment from '../MakeAppointment/MakeAppointment';
 import Services from '../Services/Services';

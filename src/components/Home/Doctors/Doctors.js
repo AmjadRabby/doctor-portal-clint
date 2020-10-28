@@ -32,7 +32,7 @@ const Doctors = () => {
         <section className="doctors">
             <div className="container">
                 <div className="doctor-header text-center">
-                    <h4 style={{color: '#1CC7C1'}}>Our Doctor</h4>
+                    <h4 className="color-group">Our Doctor</h4>
                 </div>
             
                 <div className="card-deck">

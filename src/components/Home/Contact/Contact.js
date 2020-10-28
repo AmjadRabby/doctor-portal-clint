@@ -6,7 +6,7 @@ const Contact = () => {
         <section className="contact my-5 py-5 text-white">
             <div className="container">
                 <div className="contact-header text-center">
-                    <h6 style={{color: '#1CC7C1'}}>CONTACT US</h6>
+                    <h6 className="color-group">CONTACT US</h6>
                     <h2>Always connect with us</h2>
                 </div>
                 <div className="col-md-9 mx-auto mt-4">
@@ -21,7 +21,7 @@ const Contact = () => {
                             <textarea name="message" type="text" className="form-control" placeholder="Your Message*"/>
                         </div>
                         <div className="form-group text-center">
-                           <input type="Submit" className="btn btn-primary" value="Submit"/>
+                           <input type="Submit" className="btn btn-style" value="Submit"/>
                        </div>
                     </form>
                 </div>

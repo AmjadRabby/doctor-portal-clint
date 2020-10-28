@@ -37,7 +37,7 @@ const Blogs = () => {
         <section className="blogs my-5">
             <div className="container">
                 <div className="blog-header text-center">
-                    <h5 style={{color: '#1CC7C1'}}>OUR BLOG</h5>
+                    <h5 className="color-group">OUR BLOG</h5>
                     <h2 style={{color: '#3A4256'}}>From Our Blog News</h2>
                 </div>
                 <div className="card-deck mt-5">

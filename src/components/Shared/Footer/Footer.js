@@ -50,11 +50,11 @@ const Footer = () => {
                         </ul>
                         <div className="mt-5">
                             <h6>Call now</h6>
-                            <button className="btn btn-primary">+2025550295</button>
+                            <button className="btn btn-style">+2025550295</button>
                         </div>
                     </FooterCol>
                 </div>
-                <div className="copyRight text-center mt-3">
+                <div className="copyRight text-center text-secondary mt-3">
                     <p>Copyright {(new Date()).getFullYear()} All Rights Reserved</p>
                 </div>
             </div>            

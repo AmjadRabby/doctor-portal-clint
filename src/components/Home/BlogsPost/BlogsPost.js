@@ -8,7 +8,7 @@ const BlogsPost = ({ blog }) => {
       <div className="card-header bg-transparent border-0 d-flex align-items-center">
         <img src={authorImg} className="mx-3" alt="" width="60" />
         <div className="p-2">
-          <h6 style={{ color: "#1CC7C1" }}>{author}</h6>
+          <h6 className="color-group">{author}</h6>
           <p className="text-secondary m-0">{date}</p>
         </div>
       </div>
