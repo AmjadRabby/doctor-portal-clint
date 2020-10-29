@@ -3,7 +3,7 @@
 
 [Resume]( https://drive.google.com/file/d/1y4j9H3pLXZwVTHOA2CTcPZTfeWGCjiUp/view?usp=sharing )
 
-[Live]( https://creative-agency-689ba.web.app/ ) 
+[Live-website]( https://adoring-wright-6df66e.netlify.app/ ) 
 
 ## Technology: 
 React JS, Node JS, Express JS, MongoDB, Firebase, Bootstrap
