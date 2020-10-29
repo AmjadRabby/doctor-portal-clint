@@ -1,9 +1,9 @@
 # Doctors Portal
 
 
-[Resume](https://drive.google.com/file/d/1y4j9H3pLXZwVTHOA2CTcPZTfeWGCjiUp/view?usp=sharing)
+[Resume]( https://drive.google.com/file/d/1y4j9H3pLXZwVTHOA2CTcPZTfeWGCjiUp/view?usp=sharing )
 
-[Live-creative-agency-689ba.web.app]( https://creative-agency-689ba.web.app/ ) 
+[Live]( https://creative-agency-689ba.web.app/ ) 
 
 ## Technology: 
 React JS, Node JS, Express JS, MongoDB, Firebase, Bootstrap
